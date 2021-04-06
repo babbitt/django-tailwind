@@ -24,8 +24,7 @@
     "postcss-cli": "^8.3.0",
     "postcss-scss": "^3.0.4",
     "rimraf": "^3.0.2",
-    "tailwindcss": "^2.0.1",
-    "@tailwindcss/jit": "^0.1.1",
+    "tailwindcss": "^2.1.1",
     "watch": "^1.0.2"
   }
 }
